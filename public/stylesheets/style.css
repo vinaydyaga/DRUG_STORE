@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(14, 8, 1);
+  padding: 50px;
+  font: 50px "Rojal", Helvetica, Arial, sans-serif;
+  color: rgb(0, 153, 8);
+}
+
+a {
+  color: rgb(65, 7, 82);
+}
